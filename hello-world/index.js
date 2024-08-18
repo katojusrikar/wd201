@@ -1,3 +1,5 @@
-console.log('iam index.js')
-var n='hello';
+const hello = () => {
+  console.log("Hello Github!");
+};
 
+hello();
